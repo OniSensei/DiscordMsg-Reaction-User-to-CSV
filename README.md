@@ -1,3 +1,17 @@
+# Reaction User to CSV
+This is a prof of concept for a reddit bot request that I keep getting messages for.
+
+## Discord Commands
+```
+Commands:
+rte! <- Prefix
+
+Command: (you must NOT include the "[]" brackets.)
+
+rte!export [message ID] <- replace messageID with the ID of the message you want to export to CSV.
+	- This command exports all usernames / user ID that have reacted with the 🎊 emote.	This emote can be changed in the source on line 77, you will need to rebuild the bot when you do this.
+```
+
 ## Setup
 
 - [Click Here](https://discordapp.com/developers/applications/) to create a bot and invite it to your server as follows
