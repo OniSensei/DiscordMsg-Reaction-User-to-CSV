@@ -46,7 +46,7 @@
    - Make sure your discord desktop client is running *(this does not work with discord on webclients like chrome etc)*
    
    - Download the latest version of the bot
-      - > https://github.com/OniSensei/Gotcha-v2.1/releases
+      - > https://github.com/OniSensei/DiscordMsg-Reaction-User-to-CSV/releases/download/InitialBuild/Current.Build.zip
     
     ![Downloading](https://imgur.com/KRCFL1n.png)
     
@@ -54,20 +54,7 @@
    
    ![Extracted](https://imgur.com/wARredw.png)
    
-   - Open the folder Gotcha v2.1 that was extracted from the zip and start Gotcha v2.1.exe
-     - If you do not want the auto updater to run you need to go to /config/settings.ini and change AutoUpdate to False
-     - If you want to change any settings beforehand please check /config/settings.ini and change them
-     - If you want to change any settings during the bot running, use the commands located in this readme
-     - If you want to pause the bot press F12
-   
-   ![Application](https://imgur.com/xrF5K8H.png)
-   
-   - If there is an update the auto updated will automatically start. If not then the bot will ask you for your token.
-     - This is the token we coppied in the step above, paste it using CTRL + V and press enter
-     
-     - The updater should now be asking you for the channel name
-       - This is the name of the channel you will be spamming and catching pokemon in, on discord, do not include the #
-     
+   - Open the folder that was extracted to the zip and start ReactionToExcel.exe
+   - You will ask you for your token.
+     - This is the token we coppied in the step above, paste it using CTRL + V and press enter     
      - Once complete the bot should start.
-     
-   - If there is no update the bot should start.
